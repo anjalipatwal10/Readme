@@ -1,14 +1,8 @@
-<!-- Header Image or GIF -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20YourName!&fontSize=40&fontColor=ffffff" />
-</p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Anjali patwal"><img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=social" alt="GitHub Followers"></a>
-  </p>
 
 <!-- Short Intro -->
+<h1 align="center">Hi 👋, I'm Anjali patwal</h1>
+<h3 align="center">A passionate developer from India</h3>
 ### 👋 About Me
 I'm a passionate **full-stack developer** who loves building cool things with **JavaScript**, **React**, and **Node.js**.
 
